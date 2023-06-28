@@ -1,0 +1,49 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(bg12.webp);
+
+}
+
+.container {
+    margin-top: 35vh;
+    max-height: 6vh;
+    min-height: 35vh;
+    max-width: 900px;
+    /* min-height: 23vh; */
+    margin: 32vh auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.4);
+    color: antiquewhite;
+    
+}
+
+h1 {
+    margin-top:6px;
+}
+
+#quote-container {
+    margin: 60px 0;
+}
+
+#quote-text {
+    font-size: 24px;
+}
+
+#quote-author {
+    font-style: italic;
+}
+
+#new-quote-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Add your own custom styles here */
